@@ -1,2 +1,2 @@
 # aulasjsfprimefaces
-Aulas de Jdf com prime faces 
+Aulas de Jsf com prime faces 
